@@ -2,7 +2,7 @@
 ### Art Hum at Columbia University
 
 
-This class was taught by Dr. Martina Mims.
+This class was taught by Dr. Martina Mims during Spring 2021 via Zoom. 
 
 
 
