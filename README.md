@@ -2,7 +2,7 @@
 ### Art Hum at Columbia University
 
 
-
+This class was taught by Dr. Martina Mims.
 
 
 
