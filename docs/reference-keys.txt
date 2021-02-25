@@ -51,6 +51,9 @@ vanishing-point
 spaces
 the-center-figure-below
 michelangelo
+the-sistine-chapel
+the-process
+the-public-nude-sculpture
 sofonisba
 missing-notes
 rembrandt

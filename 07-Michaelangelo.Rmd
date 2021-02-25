@@ -1,1 +1,73 @@
 # Michelangelo
+
+
+
+
+
+
+## The Sistine Chapel
+The central panels show episodes from the book of genesiss. And around there are various figures. Michelangelo includes interesting figures. 
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Sistina-interno.jpg"
+```  
+![](`r url`)
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Michelangelo_Buonarroti_027.jpg"
+```  
+![](`r url`)
+
+
+
+Comparison to Jeremiah:
+On the ceiling with have Jeremiah, Isiah, and Sibyl. They deliver the word of God. 
+
+There is a lot of nude figures on the ceiling of the sistine chapter. Called "ignudi".
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/sistine-chapel-nudes.JPG"
+```  
+![](`r url`)
+
+These remind us of the Devinci sketches. The anatomy is incredibly clear. 
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/LibyanSibyl_SistineChapel.jpg"
+```  
+![](`r url`)
+
+
+A female prophet. They want to show the correct form. There is definitely a tension. Look at the big toe. He shows us the entire body is engaged in holding up the book. The textured muscular painting is trying to show something physical. 
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+```  
+![](`r url`)
+
+
+Interestingly enough, the right side looks very much like a brain with a brain stem! Man is created out of dust/dirt and that is what he is sitting on. After the body is done, God breathes life into Adam. Michelangelo reinterprets it into this touch. 
+
+God seems like the active figure here. He reaches out  and is waiting for Adam to accept this. God is above Adam, on another level surrounded by 12 beings, of the which we think the one under God's arm may be Eve but we are unsure. 
+
+### The process
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/mich-process.JPG"
+```  
+![](`r url`)
+
+Does the bulk of the torso and general body first before the intricate details which is rather surprising. 
+
+### The public nude sculpture 
+The placement in a public square outside of Palazzo della Signoria, the seat of the civic government of florence. The placement makes it almost a political expression. 
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/mich-nude-sculpture.JPG"
+```  
+![](`r url`)
+
+He seems to be holding a rock with a sling in the other hand. It seems he is David! This is a very different David from the previous. There is no sword and no head of Goliath. Here, he is not really the victor with a head. He is heading into battle!
