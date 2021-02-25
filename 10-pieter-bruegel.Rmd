@@ -1,20 +1,21 @@
 # Pieter Bruegel the Elder
 
-
-
-
-\section{The Vienna Paintings}
+## The Vienna Paintings
 Just a brief look at these.
 
-\href{http://insidebruegel.net/#p/v=udroom&lan=en&a=1020}{Amazing website Link: Here}
+[Website to view the paintings at:](http://insidebruegel.net/#p/v=udroom&lan=en&a=1020)
 
 
 
-\href{http://insidebruegel.net/#p/v=udroom&lan=en&a=1017}{Children's Game: Painting here}
+[Children's Game Link](http://insidebruegel.net/#p/v=udroom&lan=en&a=1017)
 
 Iconoclasm: There is a period in Europe where there is a destruction of lots of art and statues. They were seen almost as false idols or as ways to mediate your relationship with God. So these paintings then moved away from religion ideas. 
 
-\includegraphics[scale=.2]{childrens_play}
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/childrens_play.JPG"
+```  
+![childrens_play](`r url`)
 
 Called Children's Games. This painting is so much different from previous ones. It almost feels like chaos. Unlike the others that feel neat and ordered, this is almost disorienting. It is almost a representation of disorder. 
 
@@ -22,7 +23,14 @@ What viewing point is there? In the south at the time, everyone is using strict 
 
 Maybe it is a metaphor, a timeless metaphor. With the children, the law and order may be there a little to some extent, but in some sense we are all children. In the time, there is a mass conversion of religion and a reckoning throughout Europe. For many, their foundations are shaken. 
 
-\includegraphics[scale=.2]{hunters_in_the_snow}
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/hunters_in_the_snow.JPG"
+```  
+![Hunters in the snow](`r url`)
+
+
 
 We also look at Hunters in the Snow. The background is used almost just to fill in the earthly rhealm. They are used almost as landscape paintings. Is there a path in this painting?
 
