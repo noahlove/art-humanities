@@ -1,0 +1,106 @@
+# The Parthenon
+
+```{r}
+parthenon_url <- "https://s3.trueloveserver.com/arthum/parthenon-modern-sunset.jpg"
+```
+![Parthenon Today](`r parthenon_url`)
+
+
+## Context
+
+The text related to this class: The Parthenon enigma. 
+
+A new interpretation of the Greek Parthenon. This class is called the masterpieces of western art. So it must start somewhere and that somewhere is typically Greece.  After hundreds of years of a dominating interpretation, this provides a new theme and feel of the Greeks.  A few key facts for context. 
+
+
+### Map
+It is surrounded by sea and has an incredible visibility. It is a token of visibility for many including visitors.  
+
+This class is based on a training of visual analysis. We want to be able to see something and think critically about it. Background knowledge shouldn't be critical to our understanding of the building or art piece. How is it constructed? What is the experience you would have experienced walking up?  
+
+What type of experience does the Parthenon provide, to you as an Athenian citizen or a visiting sailor. Why are there big columns? Why do they encircle the building? We have similar supports in ancient Egypt, but never enclosing a building. Maybe in front, maybe inside a temple, but not on the outside. The inside of the temple would typically house a stature of a Greek god. This temple would be dedicated to the deity of Athens: Athena.  
+
+ 
+## Analysis of the Parthenon:
+
+What can we derive from the architecture? 
+- Transparency: a new religious experience  
+- Simplicity: uniformity, regularity, orderly, and repetition.  
+- Porosity: it is a different building when you get further away 
+- Clean 
+- Post and lentil structural system. They didn’t know how to build curved things. They build will tall columns. What they support was also relatively short in span. So they support with equal distancing.  
+
+They are literally showing how the building is standing up. They carefully show us how the building and the structure work. The “capital” or the transitional part from the column to the above support, is unique. It has an almost mushroom like end of the column, and then a panel between that and the superstructure. It gives a feeling of something being squashed under the weight of being pushed down.  
+
+The columns actually taper on the way up, which is rather surprising. They are not monoliths, but drums with multiple pieces.  
+
+Many argue that the Greeks show how the opposing forces work. You see the squishing effect, and you see the opposing forces. You see the balance between the two.  
+
+So what were the opposing forces for the Greeks? Possibly democracy? A bunch of individual pillars that support a larger whole.  
+
+Athenians were very religious and almost arrogant about their “closeness” to the gods. The Athenians are beginning to assert some sort of agency and humanism. They finally put this somewhat to the forefront. And a major question is how does one balance these: individual agency and the gods.  
+
+##### RECAP from last class:
+Athenian temple, the Parthenon is located in the city-state Athens. Around 440BCE when this temple is built. Built by Iktinos and Kallikrates. This temple is built entirely in very high-quality marble. The material is always an important topic. It does not come from too far away, but it is a very large temple. The precision in which the stones are put together is incredible, literally a width of a hair. It is a very expensive material, and marble is a unique choice of stone compared to something like limestone. The size of this marble temple is truly different from other temples at the time.  
+
+
+There is a level of transparency and porosity to this building. The Greeks were the first to envelope the temple with pillars like this. Simplicity and order are noticeable.  
+
+## Elements
+#### Marble
+a symbol of Athenian identity. There is an incredible permanence to marble, but also luxury. For the Greeks, this was literally the home of Athena. They built out of marble with a sense of longitude and legacy.  
+
+#### Location
+Location: The Parthenon is located on a rather central Acropolis. But it can be seen everywhere. Even ships from the sea were able to view the Parthenon.  
+
+#### City-states
+The city states were often in war with each other, but also there were the Persians that would attack from the East. In a sense, you feel from everywhere that Athena is protecting you. To visitors, this is an example of Imperial might and shows their incredible power.  
+
+#### Delian League
+Delian league: the city states are fighting, but they know the Persians might come from the East. Eventually they have to decide to fight the Persians together. Athens was the center of this league. And in some sense, there is a belief that the Delian league helped fund the entire acropolis, especially the Parthenon.  
+
+#### Remakes
+Remakes: Why would the United States choose to build something in resemblance of the Parthenon. Many may think of the Parthenon as the “birth structure” of the western culture. Can you derive the values from the building? Many call backs to Greeks for points of political or cultural references and a foundation for our own politics and culture. 
+
+#### Simplicity
+Simplicity: Even Stonehenge was simple and primal like this. Columns that support other platforms. But it shows how things work: it shows how the building truly functions and shows the functions of the building. It really shows how the physics of the building work and the pushing of the building.  
+
+#### Sculptures
+Sculptures: There are incredible statues built all around the temple that many people would have never seen but are still intricate and beautiful. 
+
+#### Paint
+Paint: There might have been quite a bit of color on the temple. There was “polychromy”, not the pristine white marble that we originally imagined. White marble was established in the 18th century and was very consistent since. It resembled the “ideal of noble simplicity and quit grandeur”. In a sense, the white marble is really more of our tradition rather than the Greek’s.  
+
+#### The entrance
+Entrance? It is unclear whether anyone could enter the temple. There were massive stairs that no one can climb. Only little stairs at the entrance that humans would be able to use.  
+
+The Structural system of post and lintel is again very critical. They want you to see how this is working. They however had to follow the previously found tradition.  For example the Doric order. It was almost a very specific set of instructions.  
+
+#### The Frieze
+Frieze: the part of the building that is decorated. For Doric: you need to follow alternative triglyph and metope. Triglyph would have vertical lines and the metope would have a sculpture carved into it. The Doric structure doesn’t have a base (gradual transition) into the column. Instead at the top it has a capital, a transition at the top.  So the question would be why Doric rather than Ionic? 
+
+Which looks sturdier? Well Doric looks really strong, almost like part of the building. The Ionic is more decorative and feels slightly more intellectual. Big libraries for example, you will see Ionic, but federal and government buildings will often have Doric order columns.  
+
+The columns are also “fluted” , they have vertical lines running vertically along the surface of the columns.  
+
+There is also ionic parts on the inside: Possibly four ionic columns and an interior ionic frieze.  
+
+The nuances give life to the temple. Without the nuances, the temple would feel rather bland and boring.  
+
+#### Odd spacing
+Odd spacing: The entire platform is curved! The columns aren’t equally spaced. Many of these were from Doric proportions. We know the bulging of the columns was very purposeful. They had very strict formulas but didn’t use them. The entire building’s structural elements are made from curves. 
+
+Athena as a treasury: Parts of her statue were detachable and pure gold and could be used as currency when needed such as during wars or times of trouble. 
+
+Final statue: Doryphoros. The Greeks had their statues more fluid. The Egyptions had static, rigid with symmetry. The Greeks changed and were ready to move. To relax, you shift the hips, relax the opposing arm and tense the opposite leg. You have a criss cross of opposing forces. There is a balance of opposing forces. They are nude to have an idealized, physical body to bring them close to gods.  
+
+ 
+
+## Where does the Frieze belong
+
+\href{https://www.theguardian.com/world/2016/nov/09/western-civilisation-appiah-reith-lecture?CMP=share_btn_link}{Link to the article: }
+
+How does the display of something effect our interpretation: We are missing the context. The new Acropolis Museum tries to superposition them in front of the Parthenon in the background 
+
+Do we care about bringing them to their birth place, or is anywhere fine? So why does Britain thing they are entitled to them? 
+
