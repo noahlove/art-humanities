@@ -1,1 +1,55 @@
 # Sofonisba
+
+
+Female representation is important and also a very different perspective. 
+
+Michelangelo actually corresponded with Sofonisba and she later studied under him informally. 
+
+This shows that female artists couldn't train in the same way. They weren't allowed to see nude bodies as it may corrupt them. Sofonisba had unusual conditions, with an incredibly supportive father. 
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Sofonisba.jpg"
+```  
+![](`r url`)
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Family_Portrait.JPG"
+```  
+![](`r url`)
+
+The setting makes it clear they are at home, with the alps in the background. With the chess painting, there is almost no middle ground. There is a more friendly atmosphere feeling in the chess piece. 
+
+The son feels to be more in focus in the above picture. He is pointed to and and more embraced than the daughter in the background. 
+
+However, the daughter is also seen to be protected by the leg. Or maybe the other interpretation is being held back by the father. She in a sense brings in family conventions into the family portrait. The iconography would often move throughout Europe and the style would be similar. 
+
+## Iconography of the picture
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/MassimilianoStampa.jpg"
+```  
+![](`r url`)
+
+He is not just standing there, he is leaning against a column. What does it add? The column gives a sense of power. Maybe a governmental building or a large mansion. All the faces are usually expressionless. 
+
+Is there idealization here? Almost all figures from Raphael look very similar, almost like they are from the same family. This seems more realistic though. He looks rather childish. It is quite individualized, especially in the face. 
+
+The expressions are a unique perspective about Sofonisba. They are somewhat distinct. 
+
+The dog is also there!
+
+## Self-portrait
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Self-portrait_at_the_Easel_Painting_a_Devotional_Panel_by_Sofonisba_Anguissola.jpg"
+```  
+![](`r url`)
+
+
+
+There are definitely lines that bring us towards the painting. She doesn't wear bright colors. It pushes us towards her work rather than just her femininity. In the other paintings there is incredible detail. Here, that is not here. 
+
+She is painting virgin mary with baby Jesus. It is sort of a flex showing she can do it all. The same works that the masters are painting. She doesn't want to take our attention away from the painting. She asserts herself as the female painter. It is also possible this is her painting clothes. 
