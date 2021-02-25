@@ -1,6 +1,6 @@
 # The Parthenon
 
-```{r}
+```{r echo=FALSE}
 parthenon_url <- "https://s3.trueloveserver.com/arthum/parthenon-modern-sunset.jpg"
 ```
 ![Parthenon Today](`r parthenon_url`)

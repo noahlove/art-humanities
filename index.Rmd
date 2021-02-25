@@ -1,5 +1,5 @@
 --- 
-title: "Art Humanities"
+title: "Art Humanities: Masterpieces of Western Art"
 author: "Noah Love"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -7,7 +7,10 @@ site: bookdown::bookdown_site
 
 # Brief Introduction
 
-Can I add things here?
-
 [View the full book here (if you aren't already)](https://noahlove.github.io/art-humanities/)
 
+Art Humanities, technically known as Humanities UN1121: Masterpieces of Western Art, has been a degree requirement for all College students and an integral part of the Core Curriculum since 1947. It is not a historical survey, but an analytical study of a limited number of monuments and artists, and teaches students how to look at, think about, and engage in critical discussion of the visual arts. Classes are limited to 22 students; they are discussion-based and make extensive use of New York City through field trips to museums, buildings, and monuments.
+
+For more information: [click here](https://arthum.college.columbia.edu/)
+
+This class was taught by Martina Mims. She is a Part-time Core Lecturer for Art Humanities at Columbia and recieved her Ph.D. at Columbia in Architecture in 2013. 
