@@ -1,1 +1,142 @@
 # Emiens Gothic
+
+
+
+## Architectural Plan
+
+```{r}
+url <- "https://s3.trueloveserver.com/arthum/amiens_gothic_layout.jpg"
+```
+
+![](`r url`)
+
+
+
+The bold represents the structurally necessary parts. Circles around the bottom of poles represent a base.  No circle are Doric and the circle have a base (Ionic or Corinthian). 
+
+ 
+The ends that were semi-circles were for high level clergy. There are a lot of 7 in the temple. Similar to the ratio that was used in the Parthenon. The building was converted. This was a roman basilica (meeting hall).  
+
+So what are the bold, structural parts. It seems like the outside is providing most of the structural support.  There are no solid walls! They used the buttresses so they could use glass in between. There are not solid walls almost anywhere.  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/amiens_cathedral_vocab.jpg"
+```  
+![](`r url`)
+
+
+So why no walls? The buildings massiveness go away and everything that is left flickers in the daylight and almost dematerializes.   
+
+
+
+Partially neo-roman and partially neo-gothic. This is a relatively new cathedraral. There were already skyscrapers. So how does it have a feeling of authenticity and still feel new and innovative.  Roman-esqe were before the gothic style. Lower, not with the knowledge of building as high. Looking at the north of Paris, we see amees. We will look at Notre Dame, or our lady.  
+
+Once the technology comes out, it is almost an arms race to have the best temple/cathedraral. You attracted pilgrames and money from the area. It literally became a competition.   
+
+Looking at the western fassad, and proceeding towards the alter, we are proceeding towards the east. Rising sun, resurrection and related symbology towards the direction.  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/west_facade_amiens.png"
+```  
+![](`r url`)
+ 
+
+\begin{definition}[Cathedra]
+ – latin for seat. A church is just a Christian house of worship. Each dioses has a cathedral. If the seat was removed, then it would just be a big church. It is instead the seat of the bishop that resides there.  
+\end{definition}
+
+\begin{definition}[Gothic]
+the Goths, the prototype of German and Austrian people. They are the earliest evidence of the Germanic language. It is quite possible that they are the fault of the fall of Rome. This was used as a pejorative term for poorly designed buildings. They aren’t of the ancient values artistically. It is not for a while as a result that cathedrals are studied architecturally.  
+\end{definition}
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/church_diagram.jpg"
+```  
+![](`r url`)
+ 
+
+
+Boroque is the same thing. A pajortive way to say out of shape pearl. Then neo-classicism. There is a constant struggle between moving forward and looking back.  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/church_locations.jpg" 
+```  
+![](`r url`) 
+
+Many cathedrals are often left unfinished. Sometimes they collapsed. Sometimes they couldn’t finish a spire.  
+
+In the steeple of Notre Dame, there was a relic housed in the steeple. The Christians believed certain objects related to saints for example carried an aura of the divine and the holy. That would attract the pilgrims.  
+
+Reflection on the building of St. Johns  
+
+This cathedral is definitely not like the Parthenon. It is definitely for the community. It is to be used unlike the Parthenon which was for the Gods. But it is definitely different from the surroundings. These cathedrals were definitely much taller.  
+
+These cathedrals were overlooking. It has a feeling that God is watching always.  
+
+The entries to Notre Dame are huge. There are large buttresses at the front.  
+
+ 
+The portrait of the city. These portraits were often abbreviated, meaning it missed certain parts. The building of the cathedral was partially possible due to the agrarian land around the city.  
+
+```{r}
+url <- "https://s3.trueloveserver.com/arthum/amiens_city.jpg"
+```  
+![](`r url`)
+
+ 
+
+It is actually a really light color when cleaned. Almost a marble-like white. It is not what we think about the “typical”  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/polychromy.jpg" 
+```  
+![](`r url`)
+ 
+
+We should know the terms in red. The portals are the openings, with Trumeaus inbetween. The person to whom the cathedral was dedicated to would be “in trumeau”. Above the arcades (empty like windows) is the gallery of kings and there the Rose window which is in almost every cathedral.  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/cathedral_vocab.jpg" 
+```  
+![](`r url`)
+ 
+
+All of the symbology of the cathedral is deeply interwoven. Most people around this time were illiterate. Maybe imagery was helpful. Maybe it was confusing 
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/false_idols.jpg" 
+```  
+![](`r url`)
+
+Are these false idols? Why is there so much false imagery? Is that not a commandment? Maybe think about this in terms of other religions. There are different relationships with idols and how to visually express the imagery of God.  
+
+Iconoclasm: social belief in the importance of the destruction of icons and other images or monuments. This is an ongoing struggle between representation and overrepresentation becoming an idol.  Are there clues to interpret?
+
+First the shape of the portal. Into the center of the cathedral, in the Trumeau, is Christ. In the proximity, is the disciples. The profits are further away, facing outward because they are literally relaying the word to the world.  
+
+ 
+### The new models 
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/the_ways_people are_showed.jpg"
+```  
+![](`r url`)
+
+There is a de-emphasizing of the body. Think about St. Augaustine. A self pity and not a focus on the body. They also appear stationary rather than moving. Remember the stained glass helps it feel immaterial. A flickering light everywhere.  
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/front_of_amiens.jpg" 
+```  
+![](`r url`)
+
+
+
+Average individuals would often go through different doors rather than the main portal. If Christ is the door, you are literally embraced by all of the followers. The shape too is incredible. It is almost a funnel.  
+
+ 
+Eucharist is a reference to the last supper. Notice the one dark key stone. Symbol of the resurrected Christ, the spot where heaven and earth are conjoined.  
+
