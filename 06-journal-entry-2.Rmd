@@ -1,0 +1,57 @@
+# Journal Entry 2
+
+### Summary
+In short, yes. Alberti is almost predicting the style in which the Renassaince artists's will evolve towards, at least from our perspective of reading this work today. Both paintings by Raphael present a comprehensive feeling of depth and an understanding of 3 dimensions, or circumscription and composition as Alberti coins it. The composition of surfaces flows together, mixing the foreground and background to feel like one coherent setting that the viewer is almost a part of. Further, both works are filled with iconography and ideas to study, enough to saturate both the educated and uneducated viewer. 
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/rafael-saints.jpg"
+```  
+![Madonna and Child Enthroned with Saints (ca. 1504)](`r url`)
+
+Alberti's description of composition and his discussion of "composition of surfaces" closely mirrors the Madonna and Child Enthroned with Saints. The creation of literal foundations outside of the scene as well as in the scene in the form of steps gives a structure and a relationship between everything. Raphael gives a sense of truly gazing into a scene that is revealed; we are privledged enough to peak through this frame and see this important and symbolic moment.
+
+### Breaking with Alberti's sense of space: 
+But with that said, I think this may be a scenario that Alberti had not envisioned. In this painting, we have a "regular" scene below, but then there is a sense of brokenness in the space. There is a literal framing bar separating the humans (and baby Jesus) from God the Father alongside two Angels. From my interpretation of Alberti, this would break with his sense of reality and a continuous, realistic depiction of space. However, for Raphael, this is a new and improved way of conveying a scene to viewers; now, God can literally be in the same painting, watching over his followers below.The centric line seems really prevalent here. Even more so, Mary is raised up on this throne to show monumentality. She is clearly the center. However, at the same time she also seems to form part of two large triangles that point to the upper semi-circle. 
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/example_of_composition.JPG"
+```  
+![Figure 13 from Alberti on composition (1436)](`r url`)
+
+
+### Composition of Surfaces
+It feels as though this above picture was literally used as a template for the wedding scene! You can see similar lines radiating back towards the church (which conveniently has his name at the center/focal point).  
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/raphael_marriage.jpg"
+```  
+![Marriage of the Virgin by Raphael ca. 1504](`r url`)
+
+
+### Composition of members
+There is a need for movement according to Alberti. Death is when things are not moving and as such, a painter needs to represent the movement of bodies to appear alive. I think that is realistic for many parts of Raphael's depictions. However, the saints in Madonna and Child Enthroned with Saints seem incredibly sturdy and planted in their position. This seems to be true for many of the church figures, similar to how we discussed the disciples on the front of Amien's Gothic. Specifically, the saint on the left (Peter?) and the priest doing the marriage seem very firm, with their feat angles in an obtuse and planted way. In a sense, religion and more specifically the church is a sturdy foundation that is not dead, but rather constant. 
+
+
+### Different "tiers" of meaning:
+Alberti is clear that a "historia" should be able to "hold the eye of the learned and unlearned spectator." I feel as though this comment provides a lot of insight to the renassaince works that we have been studying. They provide a sense of realism that makes even the illiterate able to understand the basics of what is going on. They provide a storyline and graphic depiction of something that individuals could only otherwise be told by a priest for example. But at the same time, the author goes into incredible detail with their choices such that the "learned spectator" can gaze with pleasure for long periods of time as well. 
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/madonna_and_child.jfif"
+```  
+![Madonna and Child by Berlinghiero (ca. 1230's)](`r url`)
+
+
+
+
+
+### Amount of content: 
+Similarly, there is plenty to look at as Alberti says. Especially compared to the previous midevil works, now there is a massive amount of material to digest. For example, with the Madonna and Child by Berlinghiero, you can look at the faces, and maybe gather a little information from the clothing the two are wearing. Hand signals and what the child is carrying might vest your interest for a moment but then your "pleasure and emotion" is over. Compared to the Renaissance works by Raphael which have so many different pieces to engage with, it follows Alberti's belief of having a "plentiful variety" to engage with. 
+
+
+## Definitions 
+- *Circumscription*: An object occupies space and the painter will draw around this space, and this outline, in space, is circumscription. It is the process of delineating the external outlines on the painting.
+- *Composition*: The relationship between objects and surfaces and how they interact.
+- *Reception of light*: How lights and colors and shades interact with the objects. 
+
