@@ -5,5 +5,9 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Brief Introduction
+
+Can I add things here?
+
+[View the full book here (if you aren't already)](https://noahlove.github.io/art-humanities/)
 
