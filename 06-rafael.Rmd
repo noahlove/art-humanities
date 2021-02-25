@@ -1,1 +1,189 @@
 # Rafael
+
+We are now 16th century, mainly in Florence. We are in the Renaissance. In modern day Italy but of course back then it was not a united Italy. Florence and Rome were both independent.  We now have Raphael, or Raffaello Sanzio de Urbino.  
+
+We are now getting true biographies of the paintings. Previously, cathedrals and the Parthenon for example might have leading architects that we know a little bit about, but in gerenal there were hundreds to thousands of individual craftsmen.  There is an amazing level of clarity to his paintings. One of the reasons he was so popular among people, including the pope.  
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/self-portrait.jpg"
+```  
+![](`r url`)
+
+
+
+Our primary topics: 
+- Human figure (currently we have Greek, medieval and now renaissance).  
+- Background: now there is a foreground, middle ground and background.  Previously, they were usually just portraits.  
+- Space, 
+- facial expressions, 
+- composition and 
+- representations of the divine.  
+
+
+## Madonna del cardellino (Madonna of the Goldfinch)
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/first-r-picture.jpg"
+```  
+![](`r url`)
+
+We have virgin mary, gentle, looking at the babies in the picture.  Which baby is more important? Likely to be Jesus.  
+
+### Differences in the babies
+The clothed baby would be known as John the Baptist, which we can infer through iconography. How do we know that it is baby Jesus? He is fully illuminated.  
+
+There is a European goldfinch in the hands. It represents the passion of Christ and his crucifixion (a small red dot on the bird).  
+
+Notice there are little halos around all three of them (the one on Jesus is not really visible). The halo signifies sainthood. Previously, the halos literally merged the characters with the background. Often use gold background, which shows they are in heaven.  (Revelations literally says the streets are of gold). The halos now are becoming a preference and not necessary. It often depends on who commissions the painting.  
+
+There is also a protectiveness to Mary. There feet touch and he is literally between her legs being protected and here she is in the roll of the mother.  
+
+There are plants growing at jesus’ feet which was carefully planned.  
+
+We are in a Earthly sphere. We are somewhere that we feel is normal. This is accessible to us.  
+
+### Posture
+We also can tell it is Jesus by his posture. Even though it is a baby, it is positioned specifically. It is on one foot, broad and full front rather than from the side. The classical figures from the Greeks, you will always have this sense of frontality. There is also a continuity between the two. Mary is holding a bible too; which Jesus is in close proximity to. Contrapposto is the key pose of the image. It is the key pos of classical Greece. This canonical pose is reserved historically for very important people. Augustus is in contrapposto for example. He is seen as divine through the Roman gods.  
+
+What were the values in art for the classical Greeks? 
+
+Why are they nude? Most argue that it is going back to naturalism. Think Genesis or even the Greeks. It is also about showing the accurate anatomy in some sense.  
+
+### Composition
+Composition of the piece. The Greeks wanted you to arrive at a sense of harmony and working in the music. What is going on here? There is also a line of sight, starting with Jesus, line of his arm going to John and then going to Mary through her arm with a halo of clouds. There is also a visual continuity between them. There is also a noticeable triangle in the center of the picture. This is a classical positional technique of the renaissance. The triangle represents the holy trinity, but it is also really well balanced.  
+
+There is also a sense of atmosphereic perspective. With more focus on the foreground and less on the background, the background begins to mute and colors become more dull.  
+
+### Alba Madonna:
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/alba-madonna.jpg"
+```  
+![](`r url`)
+
+Here, Mary is teaching and mediating Jesus to us. She hold him up. In the midlevel picture, he looks like a miniature adult. He is presented as the savior. It is a divine aspect of Jesus rather than childhood. Mary is not in the motherly moment. She is presenting him, but as an important figure rather than anything else.  
+
+Why is there a shift towards having backgrounds? Some of this is humanism. They are focused on the figures as humans, just like us. The paintings feel realistic.  
+
+Red and blue will almost always mean Mary. Blue for heavens, red for blood of Christ. Blue was also an incredibly expensive color.   
+
+
+*Definition of Tondo format:* This means round painting. The background in this feels less involved. The background feels less muted. 
+
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/midevil_style.jpg"
+```  
+![](`r url`)
+
+St. Luke was the first portrayer. The surviving portraits were all the style above so in order to keep the proximity to the heavenly, they used the same holding style for example. 
+
+## Sistine Madonna
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/raf-for-pope.jpg"
+```  
+![](`r url`)
+
+There is an incredible interaction here. She is in contrapposto but also gazing at the viewing. It feels engaging, almost like she is coming down to be with you. There is the pope’s hat at the left.  
+
+The pope is in the painting on the left. He is gesturing outside of the realm. He is showing what is behind the curtain. He is helping us see what is behind the curtain. His hand pointing is shown as “foreshortening”. It seems real and is piercing the canvas into our space.  
+
+The angels on the edge feel almost on our sphere. They feel like genuine human kids in some sense. Raphael merges the physical, our space, with the space in the image.  
+
+
+## Human Body
+There is a great emphasis placed on accuracy of the human body. The 1500's provided great insight into the human body. 
+
+The architecture of the time goes bby the same principles. Perfect proportionality and clarity are incredibly important for this time. There is an exagerated quest for balance and harmony that is immedietly perceptable to you. 
+
+## St. Peters
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/st_peters.JPG"
+```  
+![](`r url`)
+
+Basilica church is a longitudinal church. It has a really long length. This is the basilica of St. Peter. 
+
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/st_peter_blue.JPG"
+```  
+![](`r url`)
+
+
+We see other proposals as well. The plans on the right are very centralized. 
+
+
+
+ The papal states under this pope become quite powerful. They expand their power and Pope Julius II uses the money to beautify the Vatican and surrounding area. There is a massive building. 
+
+## Raphael in the interior rooms: Stanza della Segnatura
+Everywhere is painted including the ceiling. This is the room of the signature. It is based in philosophy.
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/Raffael_Stanza_della_Segnatura.jpg"
+```  
+![](`r url`)
+
+
+\includegraphics[scale=1]{Raffael_Stanza_della_Segnatura}
+
+### School of Athens
+
+```{r} 
+url <- "https://s3.trueloveserver.com/arthum/The_School_of_Athens.jpg"
+```  
+![](`r url`)
+
+
+
+
+### Composition
+Raphael used various colors, groups of people and placements to show harmony and and unity. Even the statues are of different genders and versions. 
+
+What are the organizational principles about the crowd of people. There seems to be maybe two "tiers" of people. There are philosophers everywhere. This is a reanimiation of the creative minds of classical antiquity. The renaissance was the rebirth of this. 
+
+The left and right seems to be different as well on the bottom level. The right seem to be observing the left is making fundamentals like math. 
+
+### Where is Rafael?
+Rafael is in the lower right, barely visable. Interestingly next to zoroastra and talame. What does that mean? Maybe it is because he is observing and painting things as they are. We have euclid with a compass and he is necessary, Rafael thinks to good art. That is the domain for which Rafael can make these beautiful realistic paintings. Art was seen as very mechanical at this time. 
+
+### Plato and Aristotle
+Plato is pointing up. Plato’s gesture toward the sky is thought to indicate his Theory of Forms. This philosophy argues that the “real” world is not the physical one, but instead a spiritual realm of ideas filled with abstract concepts and ideas. The physical realm, for Plato, is merely the material, imperfect things we see and interact with on a daily basis.
+
+Aristotle’s hand is a visual representation of his belief that knowledge comes from experience. Empiricism, as it is known, theorizes that humans must have concrete evidence to support their ideas and is very much grounded in the physical world.
+
+
+
+## Principles of organization
+In a sense, there is a wonderful combination of chaos and complete organization. There is so much it may feel overwhelming but the more you look at it, the more you see the beauty and organization. This is from a time period known as the "high-Renaissance".
+
+### Composition
+Would there be lines in this painting. How would you draw them to make a vanishing point?
+
+There are two teirs in the photo. There is the bottom right, bottom left, top right, top left and center. Each group represents a different group of philosophers. The vanishing point it much further back at the clouds. Where is the focal point? 
+
+#### Vanishing point
+The painters understood they would use this as the focal point. Maybe they made the figure of Jesus the focal point and the vanishing point was married with this. It is interesting that in this picture, it is somewhat in between. The focal point is sort of in between Aristotle and Plato. They represent schools of thought and this shows that there is not one individual point of focus but requires many individuals to contribute. 
+
+At the time, there is also a neo-platonism where the ideals of Christianity and philosophy are mixing and Plato is seen almost as a proto-Christian. There was even an academy in Florence of Platos thought at the time. It was flourishing at the time. 
+
+
+#### Spaces
+There are many archways that go back and back. There is this massive open space in a picture which is truly amazing. The architecture is the basilica of St. Peters which is being built. 
+
+### The center figure (below)!
+The man in the center, leaning on the marble block is rather strange. He is one of the most striking and doesn't seem to fit in. The marble block seems to point away and is crooked. Interestingly, he was not in the preparatory drawing. 
+
+His sculpted knee gives us a feeling that he should represent Michelangelo and saying the figure is Michelangelo-esque. Even though the actual philosophical ideal is Heraclitus. Michelangelo is literally working next door at the time! However it appears Rafael didn't paint him in a great light. He is in an annoying spot, feels out of place and is an old man. However, in another sense he is also paying homage. He is on the platonic side of thought. It is divine inspiration maybe. Not completely focused on dimensions, but on conveying the point of thought. 
+
+Rafael was loved by many at the time for producing his works by the books. We can thank biographies written at the time to our understanding. 
