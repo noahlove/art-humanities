@@ -1,6 +1,97 @@
 # Goya
 
-Goya's life spanned the Enlightenment, Neoclassicism and the French revolution, including the Napoleonic wars and the restoration of the Bourbon monarchy. The works we will look at below were creatd in Madrid or near Madrid Spain. He is often considered the last traditional and classical painter and the first we see modern painter we have. We will have to take a look at Goya's modernity. 
+## Overview
 
-At the time Spain was behind other european countries in terms of development. The paintings also refer to the inquisition: the radical reassertion of catholic hegemony. Anything supposed to be heretical or opposed to true religion was persecuted, such as Judaism in Spain. 
+Goya's life spanned the Enlightenment, Neoclassicism and the French revolution, including the Napoleonic wars and the restoration of the Bourbon monarchy. The works we will look at below were created in Madrid or near Madrid Spain. He is often considered the last traditional and classical painter and the first we see modern painter we have. We will have to take a look at Goya's modernity.
 
+At the time Spain was behind other European countries in terms of development. The paintings also refer to the inquisition: the radical reassertion of catholic hegemony. Anything supposed to be heretical or opposed to true religion was persecuted, such as Judaism in Spain.
+
+### Parasol
+
+An example of earlier in his paintings, very colorful and playful.
+
+### His style would greatly change:
+
+The mural paintings that decorated the house known as "[la Quinta del Sordo](https://en.wikipedia.org/wiki/Quinta_del_Sordo)," where Goya lived have come to be known as the [Black Paintings](https://en.wikipedia.org/wiki/Black_Paintings), because he used so many dark pigments and blacks in them, and also because of their somber subject matter.
+
+[![](http://s3.trueloveserver.com/arthum/La_casa_de_locos.jpg "La casa de locos")](http://s3.trueloveserver.com/arthum/La_casa_de_locos.jpg)
+
+[![](http://s3.trueloveserver.com/arthum/The_Pilgrimage_to_San_Isidro.jpg)](http://s3.trueloveserver.com/arthum/The_Pilgrimage_to_San_Isidro.jpg)
+
+### Portraits
+
+Originally he was best known for his portraits, often how quick and realistic they were. Originally, this included a painter of the court:
+
+[![](http://s3.trueloveserver.com/arthum/Sebasti%25C3%25A1n_Mart%25C3%25ADnez.jpg)](http://s3.trueloveserver.com/arthum/Sebasti%C3%A1n_Mart%C3%ADnez.jpg)
+
+#### Self Portrait in the studio with a bullfighting jacket
+
+> *"His intriguing Self-Portrait in the Studio has been dated as early as 1775-80 and as late as 1795. The loose style and distinctive colouring aral of Goya's painting from the 1790s, but the vigorous pose makes it unlikely to have been painted after the artist's life-threatening and lengthy illness of 1792-1793."*
+>
+> [**Sarah Symmons**](https://eeweems.com/goya/dr-sarah-symmons.php "Sarah Symmons") (in her book, ***Goya,*** Phaidon Press, 1998) dates this painting to 1791-2.
+
+[![](http://s3.trueloveserver.com/arthum/francisco-de-goya--self-portrait-in-the-studio.jpg)](http://s3.trueloveserver.com/arthum/francisco-de-goya--self-portrait-in-the-studio.jpg)
+
+### *Self-portrait with Dr Arrieta*
+
+He goes through a great sickness and loses his hearing. Some individuals associate this with the change of painting style. It is rather a first of showing themselves in such a vulnerable state.
+
+This is part of Goya's series of Black Paintings.
+
+[![](https://s3.trueloveserver.com/arthum/Francisco_Goya_Self-Portrait_with_Dr_Arrieta.jpg)](https://s3.trueloveserver.com/arthum/Francisco_Goya_Self-Portrait_with_Dr_Arrieta.jpg)
+
+## The Disasters of War Collection
+
+[Link to full collection (wikipedia)](https://commons.wikimedia.org/wiki/Los_desastres_de_la_guerra "Link to full collection (wikipedia)")
+
+82 prints created in 1810-1820. They were originally called: "Fatal consequences of Spain's bloody war with Bonaparte, and other emphatic caprices." There is very little written about them by Goya, exempt for the captions written at the bottom of them. This collection broke a lot of the typical rules and traditions.
+
+### Background:
+
+In 1807 Napoleonic France occupies France with a Spanish uprising in 1808. There was a 6 year war following with the restoration of Ferdinand VII in 1814. This was controversial because he originally supported France.
+
+### Breakdown
+
+[![](http://s3.trueloveserver.com/arthum/phases_of_goya.JPG)](http://s3.trueloveserver.com/arthum/phases_of_goya.JPG)
+
+There is a definite progression.
+
+### Techniques: Etching and Aquantint
+
+Plates are made of iron, copper or zinc. You polish it, cover with acid to make it more malleable to etch, then you etch into the plate. Pour the ink over it and you can press it against paper like a stamp.
+
+[![](http://s3.trueloveserver.com/arthum/etching-how-to.JPG)](http://s3.trueloveserver.com/arthum/etching-how-to.JPG)
+
+Why?
+
+1.  Printing: Able to mass produce and show many more people the disasters of the war.
+
+```{=html}
+<!-- -->
+```
+2.  New Experimentation: There are etchings before Goya, but he takes it further and experiments. He tries new techniques like longer acid soaks, and using resin and exposing the plate.
+
+```{=html}
+<!-- -->
+```
+3.  Expression: This also changes the look. It is no longer about hyper realism. It is not about the individual or the moment anymore. It is about the overall feeling and sense of the war.
+
+![¿De qué sirve una taza? (What good is a single cup?)](http://s3.trueloveserver.com/arthum/Goya-Guerra_(59).jpg "¿De qué sirve una taza? (What good is a single cup?)")
+
+This is a great example of the aquatinte technique. It gives an incredibly grainy feel. It is hard to tell where you are. No references to Spain. This is meant to show the horror of war in general, rather than just the Spanish-Napoleaonic war.
+
+### The effects
+
+Realistic paintings and even photographs do not show the true feeling or sense of war. It just shows a brief moment, that could be very out of context. These paintings show the feeling and mood of war.
+
+[![15: Y no hay remedio (and it can't be helped)](http://s3.trueloveserver.com/arthum/Goya-Guerra_(15).jpg "15: Y no hay remedio (and it can't be helped)")](http://s3.trueloveserver.com/arthum/Goya-Guerra_(15).jpg)
+
+### Women courage
+
+There is a common women motif in French paintings where she leads them into battle and this might be playing on that.
+
+[![¡Qué valor! (What courage!)](http://s3.trueloveserver.com/arthum/Goya-Guerra_(07).jpg "¡Qué valor! (What courage!)")](http://s3.trueloveserver.com/arthum/Goya-Guerra_(07).jpg)
+
+### Unique gruesome feel
+
+[![¡Grande hazaña! Con muertos! (Great deeds! Against the dead!)](http://s3.trueloveserver.com/arthum/Goya-Guerra_(39).jpg "¡Grande hazaña! Con muertos! (Great deeds! Against the dead!)")](http://s3.trueloveserver.com/arthum/Goya-Guerra_(39).jpg)
