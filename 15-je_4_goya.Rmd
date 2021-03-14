@@ -10,8 +10,6 @@ Below we have 3 paintings done by Rembrandt, 2 self portraits followed by a sepa
 
 ![Nicolaes Ruts](https://s3.trueloveserver.com/arthum/Rembrandt_Nicolaes_Ruts.jpg "Nicolaes Ruts")
 
-# Rembrandt and Goya Journal Entry 4
-
 ## Goya
 
 ![Goya's The Forge](https://s3.trueloveserver.com/arthum/goya_the_forge.jpg "Goya the forge")
