@@ -1,67 +1,47 @@
-
 # Rembrandt
 
 ## Portraits, especially self-portraits
 
 This is a a typical portrait of the day (done by Rembrandt with husband and wife side by side. )
 
-```{r echo=FALSE}
-url <- "https://s3.trueloveserver.com/arthum/Double_portrait.JPG"
-```
-![](`r url`)
+[![Double Portrait](https://s3.trueloveserver.com/arthum/Double_portrait.JPG "Double Portrait")](https://s3.trueloveserver.com/arthum/Double_portrait.JPG)
 
+[![](https://s3.trueloveserver.com/arthum/Albrecht_D%C3%BCrer_self-portrait.jpg)](https://s3.trueloveserver.com/arthum/Albrecht_Dürer_self-portrait.jpg)
 
+The background is more contrasting. It is in your face and bold and black.
 
-```{r echo=FALSE}
-Durur_url <- "https://s3.trueloveserver.com/arthum/Albrecht_Dürer_self-portrait.jpg"
-```
-![](`r Durur_url`)
+[![](https://s3.trueloveserver.com/arthum/Self-portrait_by_Rembrandt.jpg "Rembrandt Self Portrait")](https://s3.trueloveserver.com/arthum/Self-portrait_by_Rembrandt.jpg)
 
-The background is more contrasting. It is in your face and bold and black. 
+This portraits seems almost nervous and timid. There is a pyschological air to this. How does the author see themselves. The background is interestingly lit up as well. It seems youthful.
 
+This background is somewhat new to us. Rather rough and somewhat abstract. His hair seems quite course. It seems almost tactile. The hair almost feels like we can touch it. The presence is very different in the picture. He used the back of the brush which is very interesting.
 
-```{r echo=FALSE}
-rembrandt_url <- "https://s3.trueloveserver.com/arthum/Self-portrait_by_Rembrandt.jpg"
-```
-![](`r rembrandt_url`)
+How is paint used to render hair between the two?
 
-This portraits seems almost nervous and timid. There is a pyschological air to this. How does the author see themselves. The background is interestingly lit up as well. It seems youthful. 
-
-This background is somewhat new to us. Rather rough and somewhat abstract. His hair seems quite course. It seems almost tactile. The hair almost feels like we can touch it. The presence is very different in the picture. He used the back of the brush which is very interesting. 
-
-How is paint used to render hair between the two? 
-
-Rembrandt's hair feels more real. Durer relies more heavily on the different colores for contrast. Rembrandts feel more like laying and the form.  
-
+Rembrandt's hair feels more real. Durer relies more heavily on the different colors for contrast. Rembrandts feel more like laying and the form.
 
 #### Older Portrait
 
-```{r}
-old_rem_url <- "https://s3.trueloveserver.com/arthum/rembrandt-older-portrait.jpg"
-```
-![Older Self Portrait](`r old_rem_url`)
+[![](https://s3.trueloveserver.com/arthum/rembrandt-older-portrait.jpg "Older self portrait")](https://s3.trueloveserver.com/arthum/rembrandt-older-portrait.jpg)
 
-This one is much later, at 1660. He was more experienced by now. The contemporaries didn't love the loose brush stroke that he was known for. Most people wanted realistic close brush strokes. They would say his works are unfinished, more like a sketch. 
+This one is much later, at 1660. He was more experienced by now. The contemporaries didn't love the loose brush stroke that he was known for. Most people wanted realistic close brush strokes. They would say his works are unfinished, more like a sketch.
 
-There is so much skin texture. It is more wrinkly and smooth at the same time. There is quite a lot of detail while also being super unrealistic. At a close level, it doesn't look normal, but it looks almost how it feels. It almost look leathery. It is somewhat, what it feels like. It also makes him less contoured, he begins to blend into the back ground. Imagine this hanging back in the 1600's, with just a little bit of candlelight and not the spotlights that we have today. 
+There is so much skin texture. It is more wrinkly and smooth at the same time. There is quite a lot of detail while also being super unrealistic. At a close level, it doesn't look normal, but it looks almost how it feels. It almost look leathery. It is somewhat, what it feels like. It also makes him less contoured, he begins to blend into the back ground. Imagine this hanging back in the 1600's, with just a little bit of candlelight and not the spotlights that we have today.
 
 ##### The coat:
-The coat is really interesting. The splashes of various colors, reds and greens is very interesting. Not the fur coat that we saw earlier. Much longer strokes. The paint behaves almost like it has tension. Because the brush went in all different directions, it feels almost on the body. The coat feels worn and old, maybe slightly faded. It is ironically shown with more colors. You can see the seems in the shoulders, and it is almost falling apart. 
+
+The coat is really interesting. The splashes of various colors, reds and greens is very interesting. Not the fur coat that we saw earlier. Much longer strokes. The paint behaves almost like it has tension. Because the brush went in all different directions, it feels almost on the body. The coat feels worn and old, maybe slightly faded. It is ironically shown with more colors. You can see the seems in the shoulders, and it is almost falling apart.
 
 ##### Is this a self-portrait
-```{r}
-the_artist_in <- "https://s3.trueloveserver.com/arthum/Rembrandt_The_Artist_in_his_studio.jpg"
-```
-![Rembrandt, The Artist in his studio](`r the_artist_in`)
 
-The room is really worn. Around it, there are items for painting. A palette, and materials to mix his paint. Maybe the question is what is art to Rembrandt. All the tools are in the room, but the viewer has to imagine what is on the painting. All you truly need is your imagination. 
+[![Rembrandt, The Artist in his studio](https://s3.trueloveserver.com/arthum/Rembrandt_The_Artist_in_his_studio.jpg "Rembrandt, The Artist in his studio")](https://s3.trueloveserver.com/arthum/Rembrandt_The_Artist_in_his_studio.jpg)
+
+The room is really worn. Around it, there are items for painting. A palette, and materials to mix his paint. Maybe the question is what is art to Rembrandt. All the tools are in the room, but the viewer has to imagine what is on the painting. All you truly need is your imagination.
 
 #### Similar presentation of a man with a golden helmet
-```{r}
-man_helmet <- "https://s3.trueloveserver.com/arthum/Rembrandt_The_Man_with_the_Golden_Helmet.jpg"
-```
-![Rembrandt, The Man with the Golden Helmet (ca. 1650)](`r man_helmet`)
 
-There is a such a feeling of life here. He sits here, and you can almost feel the weight of all he has been through. 
+[![Rembrandt, The Man with the Golden Helmet (ca. 1650)](https://s3.trueloveserver.com/arthum/Rembrandt_The_Man_with_the_Golden_Helmet.jpg "Rembrandt, The Man with the Golden Helmet (ca. 1650)")](https://s3.trueloveserver.com/arthum/Rembrandt_The_Man_with_the_Golden_Helmet.jpg)
 
-All of Rembrandt's pictures portraits sort of look like they need a hug. Definitely not the most cheerful. 
+There is a such a feeling of life here. He sits here, and you can almost feel the weight of all he has been through.
+
+All of Rembrandt's pictures portraits sort of look like they need a hug. Definitely not the most cheerful.
