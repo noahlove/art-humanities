@@ -118,3 +118,7 @@ the-gentleman
 modern-comparison-to-olympia
 photography-ethnographic
 etchings
+impressionists
+claude-monet
+mary-cassatt
+mother-and-child-theme
