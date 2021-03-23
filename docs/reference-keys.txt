@@ -122,3 +122,6 @@ impressionists
 claude-monet
 mary-cassatt
 mother-and-child-theme
+berthe-morisot
+self-portraits
+marie-bracquemond
