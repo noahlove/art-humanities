@@ -133,5 +133,15 @@ claude-monet-1
 change-of-studio
 series
 water-lillies
-th-century-archetecture
+th-century-architecture
 frank-lloyd-wright
+pablo-picasso
+paul-cézanne
+complete-cubism
+les-demoiselles-davignon
+henri-matisse
+diego-valázques
+cubism-of-picasso
+collage
+harlem-renaissance
+music
